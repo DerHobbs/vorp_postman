@@ -1,6 +1,7 @@
 # vorp_postman
 Deliver a script to Parkte
-![Screenshot_6](https://user-images.githubusercontent.com/101003021/190474610-6833924d-58be-4101-a14a-5493445ee5a0.png)
+
+[![Watch the video](https://i.ibb.co/89Cq9B5/Screenshot-2023-07-18-022442.png)](https://streamable.com/t0hhwx)
 
 ## 1. Requirements
 
